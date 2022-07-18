@@ -19,10 +19,10 @@ A simple snake game coded in c++ language and using GLUT / OpenGL for displaying
     ./game-release
     ```
     <div align="center">
-      <img src = "https://github.com/SameetAsadullah/SnakeGame/blob/main/extras/menu-ss.png" alt = "" width="900px"/>
+      <img src = "https://github.com/SameetAsadullah/Snake-Game/blob/main/extras/menu-ss.png" alt = "" width="900px"/>
     </div>
     
 4) You can press `Enter` to select any option from the menu. To come back from the highscore menu, you will have to press `Left Arrow Key`:
     <div align="center">
-      <img src = "https://github.com/SameetAsadullah/SnakeGame/blob/main/extras/gameplay-ss.png" alt = "" width="900px"/>
+      <img src = "https://github.com/SameetAsadullah/Snake-Game/blob/main/extras/gameplay-ss.png" alt = "" width="900px"/>
     </div>
