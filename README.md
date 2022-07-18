@@ -22,7 +22,7 @@ A simple snake game coded in c++ language and using GLUT / OpenGL for displaying
       <img src = "https://github.com/SameetAsadullah/Snake-Game/blob/main/extras/menu-ss.png" alt = "" width="900px"/>
     </div>
     
-4) You can press `Enter` to select any option from the menu. To come back from the highscore menu, you will have to press `Left Arrow Key`. You can use the `Arrow Keys` to move the snake:
+4) You can press `Enter` to select any option from the menu. To come back from the highscore menu, you will have to press `Left Arrow Key`. You can use `Arrow Keys` to move the snake:
     <div align="center">
       <img src = "https://github.com/SameetAsadullah/Snake-Game/blob/main/extras/gameplay-ss.png" alt = "" width="900px"/>
     </div>
