@@ -1,7 +1,7 @@
 <h1 align="center">Snake Game</h1>
 
 ### Description
-A simple `Snake Game` coded in c++ language and using `GLUT / OpenGL` for displaying. Hurdles of different shapes for the snake and creating an unbeatable highscore makes the game interesting. Not just that, the user can also resume the game as well.
+A simple `Snake Game` coded in c++ language and using `GLUT / OpenGL` for displaying. Hurdles of different shapes for the snake and creating an unbeatable high score makes the game interesting. Not just that, the user can also resume the game as well.
 
 ### Manual
 1) Open the ubuntu terminal in `src` folder and run the following command to install all the `Required Libraries`:
